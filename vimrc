@@ -4,6 +4,7 @@ let g:solarized_termcolors=256
 set background=dark
 colorscheme solarized
 set statusline+=%F
+set laststatus=2
 
 set mouse=a
 
